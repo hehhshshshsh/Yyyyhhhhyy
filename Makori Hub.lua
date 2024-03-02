@@ -4753,7 +4753,7 @@ local LogoToggle = Instance.new("ImageLabel")
 end
 
 
-local Library = Update:Window("TienTiny.Space","2.0",Enum.KeyCode.RightControl);
+local Library = Update:Window(" CHUỐI TUƠI HUB","2.0",Enum.KeyCode.RightControl);
 
 Main = Library:Tab("Genneral",6026568198)
 Sta = Library:Tab("Stats",7040410130)
